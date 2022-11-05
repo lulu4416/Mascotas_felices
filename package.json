@@ -1,0 +1,23 @@
+{
+  "name": "mascotasfelices",
+  "version": "1.0.0",
+  "description": "Pagina web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lulu4416/Mascotas_felices.git"
+  },
+  "author": "Ggrupo 1 equipo 13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lulu4416/Mascotas_felices/issues"
+  },
+  "homepage": "https://github.com/lulu4416/Mascotas_felices#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "save": "^2.9.0"
+  }
+}
